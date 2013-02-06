@@ -1,0 +1,24 @@
+# Dolibarr language file - fr_FR - depenses
+CHARSET= UTF-8
+Fuel= Carburant
+AutoRoute= Péage
+Restaurant= Restaurant
+Transport= Transport
+Poste= La Poste
+Other= Autres
+Company= Société
+Reference= Référence
+TotalHT= Total HT
+TotalTTC= Total TTC
+TVA= TVA
+Payment= Payment
+CB= CB
+Cheque= Chéque
+Cash= Espéces
+Virement= Virement
+Autres= Autres
+Date= Date
+Note= Note
+Create= Créer
+Cancel= Annuler
+Type= Type
